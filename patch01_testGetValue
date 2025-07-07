@@ -1,0 +1,6 @@
+- `SearchTestUtils` seems to be some kind of internal testing library.
+  - `SearchTestUtils.installSearchExtension` adds a search engine as a web extension. What is a web extension?
+- This entire bug is related to setting up the default search engine.
+- Where is `Services` on `line 22` coming from ?
+
+- `Glean` is a telmetry pipeline which is available as a global object.
